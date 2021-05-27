@@ -26,7 +26,7 @@ SECRET_KEY = 'vnfk$(%cm9b#2udx28mp2miu@1nykxb)jmvcw=hv!86q$bg=tg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['exam-portal123.herokuapp.com', 'localhost']
 
 
 # Application definition

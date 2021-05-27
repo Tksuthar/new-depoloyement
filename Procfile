@@ -1,1 +1,1 @@
-web: gunicorn ivytasks_project.wsgi --log-file -
+web: gunicorn razor.wsgi --log-file -
